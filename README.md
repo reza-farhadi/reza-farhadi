@@ -1,31 +1,90 @@
-## Hi there 👋
+# 👋 Hi, I'm Reza Farhadi
 
-<!--
-**reza-farhadi/reza-farhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Web Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about technology, software development, and building modern, responsive web applications. I enjoy learning new technologies, solving real-world problems, and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...# 👋 Hi, I'm Reza Farhadi
+---
 
-I am a **Full Stack Developer** from **Shiraz, Iran**, passionate about technology, software development, and building modern web applications. I enjoy writing clean, maintainable code and continuously improving my skills in web development.
+## 🚀 About Me
 
-In addition to programming, I have solid experience with **Microsoft Windows**, **Microsoft Word**, and **Microsoft Excel**.
+* 💻 Full Stack Developer
+* 🌍 Based in Shiraz, Iran
+* 🌱 Currently improving my Full Stack Development skills
+* ⚡ Passionate about clean code and modern web design
+* 📚 Always learning and exploring new technologies
 
-Outside of coding, I enjoy listening to music—especially **Folk, Metal, and Rap**—playing **chess**, solving **Sudoku puzzles**, exploring new cafés, and playing **Sepak Takraw**.
+---
 
-I also enjoy reading psychology books. Some of my favorites include *The Greatest Power*, *Don't Sweat the Small Stuff*, *Dark Psychology*, *The Seed*, and *The Six Pillars of Self-Esteem*.
+## 💻 Tech Stack
 
-My favorite movies are *Interstellar*, *Gladiator*, and *Se7en*.
+### Languages & Technologies
 
-I consider myself a responsible, adaptable, and sociable person who enjoys learning new technologies, solving challenging problems, and making a positive impact whenever possible.
+* HTML5
+* CSS3
+* JavaScript (ES6+)
 
-Feel free to explore my repositories below, and thank you for visiting my GitHub profile!
+### Tools
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Git
+* GitHub
+* VS Code
+* Cursor
+* Microsoft Windows
+* Microsoft Word
+* Microsoft Excel
+
+---
+
+## 🎯 Current Goals
+
+* Build modern and responsive web applications
+* Master JavaScript and Full Stack Development
+* Learn React and Node.js
+* Contribute to open-source projects
+* Create useful software that solves real problems
+
+---
+
+## 🎵 Interests
+
+Outside of programming, I enjoy:
+
+* 🎧 Listening to Folk, Metal, and Rap music
+* ♟️ Playing Chess
+* 🧩 Solving Sudoku puzzles
+* ☕ Exploring cafés
+* 🏐 Playing Sepak Takraw
+* 📖 Reading psychology books
+
+Some of my favorite books include:
+
+* *The Greatest Power*
+* *Don't Sweat the Small Stuff*
+* *Dark Psychology*
+* *The Seed*
+* *The Six Pillars of Self-Esteem*
+
+Favorite movies:
+
+* 🎬 Interstellar
+* 🎬 Gladiator
+* 🎬 Se7en
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: **https://github.com/reza-farhadi**
+* Portfolio: *Coming Soon...*
+
+---
+
+## 💬 Quote
+
+> *"Success is the result of continuous learning, persistence, and consistent effort."*
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey.
+
